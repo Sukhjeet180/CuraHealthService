@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 public class HomePage {
     private  WebDriver driver;
     private By makeAppointmentButton=By.id("btn-make-appointment");
-
+//This is test comment
 
     public HomePage(WebDriver driver)
     {
